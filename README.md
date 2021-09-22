@@ -1,4 +1,4 @@
-### Hey! <img src = "https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="25px"> I’m Chris Loucaides! | <a href="chrisloucaides.com" target="_blank">My portfolio site!</a>
+### Hey! <img src = "https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="25px"> I’m Chris Loucaides! | <a href="https://www.chrisloucaides.com/" target="_blank">My portfolio site!</a>
 
 ---
 
@@ -17,7 +17,7 @@ Currently learning React.js outside my university course.</p>
 
 📞 Contact
 
-<a href="mailto:info@chrisloucaides.com">Email</a> <a href="www.linkedin.com/in/chrisloucaides">LinkedIn</a>
+<a href="mailto:info@chrisloucaides.com">Email</a> <a href="https://www.linkedin.com/in/chrisloucaides/" target = "_blank">LinkedIn</a>
 
 <!---
 ChrisLoucaides/ChrisLoucaides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
