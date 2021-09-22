@@ -17,7 +17,8 @@ Currently learning React.js outside my university course.</p>
 
 📞 Contact
 
-<a href="mailto:info@chrisloucaides.com">Email</a> <a href="https://www.linkedin.com/in/chrisloucaides/" target = "_blank">LinkedIn</a>
+<p>Email: info@chirsloucaides.com</p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/chrisloucaides/" target = "_blank">Christos Loucaides</a></p>
 
 <!---
 ChrisLoucaides/ChrisLoucaides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
