@@ -13,6 +13,12 @@ Currently learning React.js outside my university course.</p>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50px" height="50px">
 
+---
+
+📞 Contact
+
+<a href="mailto:info@chrisloucaides.com">Email</a> <a href="www.linkedin.com/in/chrisloucaides">LinkedIn</a>
+
 <!---
 ChrisLoucaides/ChrisLoucaides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
