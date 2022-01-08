@@ -11,7 +11,12 @@ Currently learning React.js outside my university course.</p>
 
 🖥️ Technologies
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50px" height="50px">
 
 ---
 
