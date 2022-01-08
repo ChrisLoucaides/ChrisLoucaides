@@ -9,9 +9,15 @@ Currently learning React.js outside my university course.</p>
 
 ---
 
-🖥️ Technologies
+🖥️ Technologies and tools
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50px" height="50px"> 
+🌐 Web/Software Development:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Visual_Paradigm_logo.png" width="165px" height="40px">
+
+🎞️ Multimedia:
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="50px" height="50px">
 ---
 
 📞 Contact
