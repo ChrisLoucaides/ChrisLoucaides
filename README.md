@@ -4,8 +4,8 @@
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ChrisLoucaides?label=My%20Twitter&style=social">
 
-<p>I'm a second year Computer Science with Management student at Queen Mary University of London. Enthusiastic about web technologies and frameworks.
-Currently learning React.js outside my university course.</p>
+<p>I'm a Computer Science with Management student at Queen Mary University of London. Enthusiastic about web technologies and frameworks.
+Currently on a placement year at Sky UK working as a Java Software Developer.</p>
 
 ---
 
