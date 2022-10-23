@@ -11,9 +11,18 @@ Currently on a placement year at Sky UK working as a Java Software Developer.</p
 
 🖥️ Technologies and tools
 
-🌐 Web/Software Development:
+🌐 Web Development:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Visual_Paradigm_logo.png" width="165px" height="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50px" height="50px">
+<br/>
+<br/>
+🖥 Software Development: <br/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Visual_Paradigm_logo.png" width="165px" height="40px"> 
+<br/>
+<br/>
+🛠 Develepment Tools: <br/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain-wordmark.svg" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" height="50px"> 
 
 🎞️ Multimedia:
 
