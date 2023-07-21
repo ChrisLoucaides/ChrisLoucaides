@@ -18,7 +18,7 @@ Currently on a placement year at Sky UK working as a Java Software Developer.</p
 <br/>
 <br/>
 🖥 Software Development: <br/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Visual_Paradigm_logo.png" width="165px" height="40px"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Visual_Paradigm_logo.png" width="165px" height="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" width="50px" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png?20190703111750" width="150px" height="35px">
 <br/>
 <br/>
 🛠 Develepment Tools: <br/>
