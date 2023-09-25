@@ -1,8 +1,5 @@
-### Hey! <img src = "https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="25px"> I’m Chris Loucaides! | <a href="https://www.chrisloucaides.com/" target="_blank">My portfolio site!</a>
-
+<h3> Hey! I’m Chris Loucaides! | <a href="https://www.chrisloucaides.com/" target="_blank">My portfolio site!</a></h3> <img src = "https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="25px"> 
 ---
-
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ChrisLoucaides?label=My%20Twitter&style=social">
 
 <p>I'm a Computer Science with Management student at Queen Mary University of London. Enthusiastic about web technologies and frameworks.
 Currently on a placement year at Sky UK working as a Java Software Developer.</p>
