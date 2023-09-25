@@ -1,4 +1,4 @@
-<h3> Hey! I’m Chris Loucaides! | <a href="https://www.chrisloucaides.com/" target="_blank">My portfolio site!</a></h3> <img src = "https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="25px"> 
+<h3> Hey! I’m Chris Loucaides! | <a href="https://www.chrisloucaides.com/" target="_blank">My portfolio site!</a></h3>
 ---
 
 <p>I'm a Computer Science with Management student at Queen Mary University of London. Enthusiastic about web technologies and frameworks.
