@@ -2,7 +2,7 @@
 ---
 
 <p>I'm a Computer Science with Management student at Queen Mary University of London. Enthusiastic about web technologies and frameworks.
-Currently on a placement year at Sky UK working as a Java Software Developer.</p>
+Have just finished a placement year at Sky UK working as a Java Software Developer.</p>
 
 ---
 
