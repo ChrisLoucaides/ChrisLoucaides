@@ -11,7 +11,7 @@ Have just finished a placement year at Sky UK working as a Java Software Develop
 🌐 Web Development:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50px" height="50px">
 <br/>
 <br/>
 🖥 Software Development: <br/>
