@@ -23,7 +23,7 @@ Have just finished a placement year at Sky UK working as a Java Software Develop
 
 🎞️ Multimedia:
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="50px" height="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width="50px" height="50px">
 ---
 
 📞 Contact
