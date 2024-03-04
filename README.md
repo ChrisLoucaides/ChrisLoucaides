@@ -1,5 +1,5 @@
-<h3> Hey! I’m Chris Loucaides! | <a href="https://www.chrisloucaides.com/" target="_blank">My portfolio site!</a></h3>
----
+<h1> Hey! 👋 <br> I’m Chris Loucaides! | <a href="https://www.chrisloucaides.com/" target="_blank">My portfolio site!</a> </h1>
+
 
 <p>I'm a Computer Science with Management student at Queen Mary University of London. Enthusiastic about web technologies and frameworks.
 Have just finished a placement year at Sky UK working as a Java Software Developer.</p>
