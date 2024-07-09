@@ -1,8 +1,7 @@
 <h1> Hey! 👋 <br> I’m Chris Loucaides! | <a href="https://www.chrisloucaides.com/" target="_blank">My portfolio site!</a> </h1>
 
 
-<p>I'm a Computer Science with Management student at Queen Mary University of London. Enthusiastic about web technologies and frameworks.
-Have just finished a placement year at Sky UK working as a Java Software Developer.</p>
+<p>I'm a Computer Science with Management graduate from Queen Mary University of London, equipped with practical industry insights gained from my role as a Software Developer at Sky, surpassing the knowledge typically acquired within a university classroom setting. Always happy to expand my knowledge at every level of the stack, however I primarily specialise in backend development using Java.</p>
 
 ---
 
