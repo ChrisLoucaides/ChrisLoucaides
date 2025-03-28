@@ -1,7 +1,7 @@
 <h1> Hey! 👋 <br> I’m Chris Loucaides! | <a href="https://www.chrisloucaides.com/" target="_blank">My portfolio site!</a> </h1>
 
 
-<p>I'm a Backend Engineer at <a href="https://www.marshmallow.com/our-story">Marshmallow<a/> and a recent <a href="https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2024/computer-science-with-management-itmb/">Computer Science with Management graduate from Queen Mary University of London</a>. Equipped with practical industry insights gained from my former role as a Software Developer at <a href="https://www.sky.com/">Sky<a/>, surpassing the knowledge typically acquired within a university classroom setting. Always happy to expand my knowledge at every level of the stack, however I primarily specialise in backend development using Java.</p>
+<p>I'm a Backend Engineer at <a href="https://www.marshmallow.com/our-story">Marshmallow<a/> and a recent <a href="https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2024/computer-science-with-management-itmb/">Computer Science with Management graduate from Queen Mary University of London</a>. Equipped with practical industry insights gained from my former role as a Software Developer at <a href="https://www.sky.com/">Sky<a/>, surpassing the knowledge typically acquired within a university classroom setting. Always happy to expand my knowledge at every level of the stack, however I'm primarily focusing on improving my Java skills as a backend dev.</p>
 
 ---
 
