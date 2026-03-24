@@ -1,7 +1,8 @@
 <h1> Hey! 👋 <br> I’m Chris Loucaides! | <a href="https://www.chrisloucaides.com/" target="_blank">My portfolio site!</a> </h1>
 
 
-<p>I'm a Backend Engineer at <a href="https://www.marshmallow.com/our-story">Marshmallow<a/> and a Computer Science with Management graduate from <a href="https://www.qmul.ac.uk/eecs/" target="_blank">Queen Mary University of London</a>. Equipped with practical industry insights gained from my former role as a Software Developer at <a href="https://www.sky.com/" target="_blank">Sky<a/>, surpassing the knowledge typically acquired within a university classroom setting. Always happy to expand my knowledge at every level of the stack, however I'm primarily focusing on improving my Java skills as a backend dev.</p>
+<p>I'm an incoming Backend Engineer at <a href="https://www.giffgaff.com/" target="_blank">GiffGaff<a/> and a Computer Science with Management graduate from <a href="https://www.qmul.ac.uk/eecs/" target="_blank">Queen Mary University of London</a>. Previously worked at companies like <a
+                            href="https://marshmallow.com" target="_blank">Marshmallow</a>, and <a href="https://www.sky.com/" target="_blank">Sky<a/>. Always happy to expand my knowledge at every layer of the stack, however I primarily work with Java/Spring Boot microservices.</p>
 
 ---
 
