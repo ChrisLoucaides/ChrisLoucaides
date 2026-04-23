@@ -1,7 +1,7 @@
 <h1> Hey! 👋 <br> I’m Chris Loucaides! | <a href="https://www.chrisloucaides.com/" target="_blank">My portfolio site!</a> </h1>
 
 
-<p>I'm an incoming Software Engineer at <a href="https://www.giffgaff.com/" target="_blank">GiffGaff<a/> and a Computer Science with Management graduate from <a href="https://www.qmul.ac.uk/eecs/" target="_blank">Queen Mary University of London</a>. Previously worked at companies like <a
+<p>I'm a Software Engineer at <a href="https://www.giffgaff.com/" target="_blank">giffgaff<a/> and a Computer Science with Management graduate from <a href="https://www.qmul.ac.uk/eecs/" target="_blank">Queen Mary University of London</a>. Previously worked at companies like <a
                             href="https://marshmallow.com" target="_blank">Marshmallow</a>, and <a href="https://www.sky.com/" target="_blank">Sky<a/>. Always happy to expand my knowledge at every layer of the stack, however I primarily work with Java/Spring Boot microservices.</p>
 
 ---
